@@ -6,11 +6,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Ung0u_IiOEeWBM-I2rSFQZX_Z_ES5IEN
 """
 
-!pip install langchain langchain-community
-!pip install faiss-cpu
-!pip install sentence-transformers
-!pip install transformers
-!pip install pypdf
+
 
 from google.colab import files
 uploaded = files.upload()
